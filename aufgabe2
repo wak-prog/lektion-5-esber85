@@ -18,9 +18,10 @@ int signum (int i)
 
    int main()
 {
-    int signum(int i);
+    int ergbniss;
     scanf("%d",&i);
-
-    signum(i);
+    
+    ergbniss =signum(i);
+    printf ("%d resault \n", ergbniss);
 }
 return 0;
