@@ -14,3 +14,4 @@ int main()
     ergebnis= erg_ab + erg_cd;
 printf("\n Die Ergebnis ist: %d", ergebnis);
 }
+return 0;
